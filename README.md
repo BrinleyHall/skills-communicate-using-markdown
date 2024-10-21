@@ -1,4 +1,6 @@
-<header>
+# Header Test
+
+### Header Test 2
 
 <!--
   <<< Author notes: Course header >>>
@@ -38,6 +40,8 @@ You can now [merge](https://docs.github.com/get-started/quickstart/github-glossa
 -->
 
 ---
+
+<Test commit message>
 
 Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/communicate-using-markdown) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
 
